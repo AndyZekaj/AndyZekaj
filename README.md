@@ -6,7 +6,9 @@ I'm a developer passionate about clean code, creative projects, and making tech 
 Languages: JavaScript, Node.js, HTML, CSS
 Tools: Git, VS Code
 Interests: UX design, voice interaction, interactive web experiences
+
 🌱 Current Focus
+
 I’m diving into user experience enhancement through interactive elements and voice interaction features. If you're interested in clean code or just love experimenting with new tech, you're in the right place.
 
 
