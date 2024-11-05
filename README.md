@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hey there, I'm Avdyl!
 
-<!--
-**AndyZekaj/AndyZekaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about clean code, creative projects, and making tech more intuitive and user-friendly.
 
-Here are some ideas to get you started:
+🔧 Technologies & Tools
+Languages: JavaScript, Node.js, HTML, CSS
+Tools: Git, VS Code
+Interests: UX design, voice interaction, interactive web experiences
+🌱 Current Focus
+I’m diving into user experience enhancement through interactive elements and voice interaction features. If you're interested in clean code or just love experimenting with new tech, you're in the right place.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+📫 Get in Touch
+
+Feel free to reach out for collaborations or if you'd like to chat about tech, coding, or creative projects.
+
+Email: avdyl.zekaj@dci-student.org
+
+
